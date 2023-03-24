@@ -1,3 +1,5 @@
+Aluno: Juclerio Oliveira Soares - RGM 123.886
+
 Atividade referente a aula 7 da disciplina de Gerência de Configuração.
 
 1.	Nesta atividade vamos fazer uma atividade prática. 
